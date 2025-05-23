@@ -76,3 +76,4 @@ def mine():
 if __name__ == "__main__":
     # Altere os parametros para testar diferentes numeros de threads
     concurrent_mining(num_threads=4, difficulty=4)
+    print('Hello, world!')
